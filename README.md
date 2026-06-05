@@ -5,6 +5,10 @@ Bu klasör GitHub Pages reposunun köküne yüklenecek statik site dosyalarını
 ## Yayın URL'leri
 
 - `https://apps.ahmetbalci.com/`
+- `https://apps.ahmetbalci.com/sudoku/`
+- `https://apps.ahmetbalci.com/math-puzzle/`
+- `https://apps.ahmetbalci.com/contact/`
+- `https://apps.ahmetbalci.com/social/`
 - `https://apps.ahmetbalci.com/sudoku/privacy-policy/`
 - `https://apps.ahmetbalci.com/sudoku/terms/`
 - `https://apps.ahmetbalci.com/sudoku/support/`
