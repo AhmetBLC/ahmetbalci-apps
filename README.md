@@ -20,4 +20,4 @@ Bu klasör GitHub Pages reposunun köküne yüklenecek statik site dosyalarını
 
 ## Destek E-postası
 
-Destek e-postası hazır olunca HTML dosyalarındaki "destek e-posta adresi hazır olduğunda" ifadeleri gerçek e-posta adresiyle değiştirilmeli.
+- `ttemhaa06@gmail.com`
